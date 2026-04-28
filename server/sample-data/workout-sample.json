@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-28",
+  "workout": "Push Day + Core",
+  "exercises": [
+    { "name": "Bench Press", "sets": "4", "reps": "8", "weight": "70kg" },
+    { "name": "Overhead Press", "sets": "3", "reps": "10", "weight": "40kg" }
+  ],
+  "protein": 145,
+  "whey": true,
+  "diet": true,
+  "pushupsDone": true,
+  "pushupsReps": 60,
+  "cardioDone": true,
+  "cardioMinutes": 20,
+  "notes": "Energy was high today."
+}
